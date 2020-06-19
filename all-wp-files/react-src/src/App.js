@@ -12,6 +12,7 @@ function App() {
       <header className="App-header">
         <Router>
           <Route exact path="/toosie" component={ToosieSlide}/>
+          <Route exact path="/react-page-2" component={ToosieSlide}/>
         </Router>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
