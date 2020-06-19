@@ -1,6 +1,7 @@
 {
   "name": "react-src",
   "version": "0.1.0",
+  "homepage":"http://localhost:8000/react-page/build-files",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
